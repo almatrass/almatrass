@@ -6,9 +6,11 @@ body {
 }
 .homeContainer {
 	margin-top: 70px; 
+	margin-bottom: 30px;
 	color: white;
 }
 .pageContainer {
 	margin-top: 30px;
+	margin-bottom: 30px;
 	color: white;
 }
